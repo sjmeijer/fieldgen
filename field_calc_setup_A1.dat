@@ -1,0 +1,13 @@
+-43 43 1    # xmin, xmax, xstep
+-43 43 1    # ymin, ymax, ystep
+-1 93 1    # zmin, zmax, zstep
+5000        #Vb
+#1.26 -0.091 32 10 19 
+1.26 -0.091 0 0 0 
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+# detector geometry for ppc
+46 	         # z length, mm
+31               # radius, mm
+0		 # bulletization radius, mm
+#2 0.75           #contact length, radius, mm
+1 0.5           #contact length, radius, mm
+0 0              # no central hole for M60
+# 50 5             # central hole, length, radius, mm

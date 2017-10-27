@@ -1,0 +1,14 @@
+90  #zlen
+35 #r
+7  #hole radius
+20 #hole start z (hole length = 70)
+0 # hole taper addition to r (at z=zlen)
+1 #contact radius
+2 #contact depth
+8 # number of azimutal segments
+15 # inner radius for azimutal segmentation
+4 #depth of ditch @ front
+2 #width of ditch @ front
+7 6 7 25 25 20 # z segment widths, front to back
+20 #rear segmentation boundary
+
